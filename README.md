@@ -16,6 +16,7 @@
     This application is fully deployed on Heroku. See below for link. 
   
   ## Usage
+   ![Screenshot](/public/img/thetechblogfull.jpg?raw=true "Screenshot")
     Use wisely. This site's content is not moderated. 
 
   ## License
